@@ -1,4 +1,4 @@
-<img src = "VIJAY SAGAR GOOTY (1).png" width = "100%"/>
+<img src = "banner.png" width = "100%"/>
 
 ## Hi 👋 I am Vijay Sagar! 
 
