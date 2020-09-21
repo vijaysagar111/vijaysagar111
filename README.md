@@ -33,7 +33,7 @@ I am a developer who is passionate about stuff like full Stack Web Development a
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=vijaysagar111&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vijaysagar111&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vijaysagar111&hide=css,java,html&theme=tokyonight">
 </p>
 
 </details>
