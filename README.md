@@ -8,8 +8,8 @@ I am a developer who is passionate about stuff like full Stack Web Development a
 - 🤝 Open for collaborations in Web Development and Data Science.
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as an intern/full time in deep learning fields and Web Developer.
-- 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
-- 👋 My personal [blog site](https://pr2tik1.github.io/blog/)
+- 🌐 Visit my [porfolio website](https://vijaysagar111.github.io/) for complete background and contact.
+
 
 <details>
 <summary>🤝 <b>To connect with me</b></summary>
