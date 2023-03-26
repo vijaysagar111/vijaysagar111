@@ -8,7 +8,7 @@ I am a developer who is passionate about stuff like full Stack Web Development a
 - 🤝 Open for collaborations in Web Development and Data Science.
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as an intern/full time in deep learning fields and Web Developer.
-- 🌐 Visit my [porfolio website](https://vijaysagar111.github.io/vijaysagar111/) for complete background and contact.
+- 🌐 Visit my [porfolio website](https://vijaysagargooty.netlify.app/) for complete background and contact.
 
 
 <details>
